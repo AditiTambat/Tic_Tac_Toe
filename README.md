@@ -1,5 +1,5 @@
 <h1> Tic_Tac_Toe <h1>
-<p style="font-size: 7px;">
+<p style="font-size: 4px;">
 This is a simple implementation of the classic Tic Tac Toe game using HTML, CSS, JavaScript.
 A web-based version of Tic Tac Toe, where two players can play against each other on the same device. 
 The game highlights the winning line and provides a simple, intuitive user interface.</p>
